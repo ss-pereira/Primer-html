@@ -1,0 +1,21 @@
+*{
+    background-color: rgb(193, 97, 158);
+}
+
+.encabezado {
+text-align: center;
+}
+
+.imagen1 {
+    display: flex;
+    justify-content: center;
+    }
+.imagenes {
+    margin: 10px;
+}
+div#Formulario1{
+    color:white
+}
+p#correo{
+color: brown;
+}
